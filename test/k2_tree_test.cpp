@@ -1,4 +1,4 @@
-#include "sdsl/k2_tree.hpp"
+#include "sdsl/include/k2_tree.hpp"
 #include "gtest/gtest.h"
 
 #include <sstream>
